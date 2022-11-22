@@ -14,13 +14,13 @@ TextParse = "e0df1984-e451-5cb5-8b61-797a481e67e3"
 Tries = "666c268a-d78f-417b-b45a-09e10b365109"
 
 [compat]
-AbstractTrees = "0.2.1, 0.3.3"
+AbstractTrees = "0.2.1, 0.3.3, 0.4.3"
 AutoHashEquals = "0.2.0"
 InternedStrings = "0.7"
 Nullables = "1.0.0"
 TextParse = "0.9, 1.0.0"
 LazyStrings = "0.1.1"
-Tries = "0.1.4"
+Tries = "0.2.0"
 julia = "1.4.2, 1.5, 1.6, 1.7, 1.8"
 
 [extras]
